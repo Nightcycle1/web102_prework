@@ -1,3 +1,5 @@
+
+console.log("countUp.js is loaded");
 var __assign = (this && this.__assign) || function () {
     __assign = Object.assign || function(t) {
         for (var s, i = 1, n = arguments.length; i < n; i++) {
@@ -300,4 +302,3 @@ var CountUp = /** @class */ (function () {
     };
     return CountUp;
 }());
-export { CountUp };
